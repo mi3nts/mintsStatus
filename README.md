@@ -10,33 +10,18 @@ First 3 nodes:
 |
 ✅ Bill of Materials
 |
-|
 ✅ Ordering Components
-|
 |
 ✅ 3D Printing Internal Casings
 |
-|
 ✅ CNC Cutting Base Plate
-|
 |
 ✅ Attaching the Components to Base
 |
-|
 ✅ Power Connections
-|
 |
 🔵 Data Transfer & Other Connections
 🔵 Firmware
 🔴Indoor Testing
 🔴Outdoor Testing at WSTC
 🔴Deployment
-
-
-```mermaid
-timeline
-    title Project Timeline
-    2023 : Project Started
-    2024 : Prototype Built
-    2025 : Product Launch
-```
