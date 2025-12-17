@@ -83,3 +83,6 @@
 | Firmware                             | 🔴 | 
 | Indoor Testing                       | 🔴 |
 | Deployment                           | 🔴 |
+
+NOTES:
+* I'm honestly not sure how the 3D CAD design is going as that's being handled by Rittik. I'll text him and ask how it's going and update the notes/table with the relevant information
