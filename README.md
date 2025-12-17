@@ -13,7 +13,7 @@
 | Attaching the Components to Base      | ✅ | 🔴 |
 | Power Connections                     | ✅ | 🔴 |
 | Data Transfer & Other Connections     | 🔵 | 🔴 |
-| Firmware                              | 🔵 | 🔴 |
+| Firmware                              | 🔵 | 🔵 |
 | Indoor Testing                        | 🔴 | 🔴 |
 | Outdoor Testing at WSTC               | 🔴 | 🔴 |
 | Deployment                            | 🔴 | 🔴 |
@@ -31,7 +31,7 @@
 | 3D Printing Casings                   | 🔴 | 🔴 |
 | Attaching the Components to Base      | 🔴 | 🔴 |
 | Data Transfer & Other Connections     | 🔴 | 🔴 |
-| Firmware                              | 🔴 | 🔴 |
+| Firmware                              | 🔵 | 🔵 |
 | Indoor Testing                        | 🔴 | 🔴 |
 | Deployment                            | 🔴 | 🔴 |
 
@@ -48,7 +48,7 @@
 | 3D Printing Casings                  | 🔴 |
 | Attaching the Components to Base     | 🔴 |
 | Data Transfer & Other Connections    | 🔴 |
-| Firmware                             | 🔴 | 
+| Firmware                             | 🔵 | 
 | Indoor Testing                       | 🔴 |
 | Deployment                           | 🔴 |
 
@@ -64,7 +64,7 @@
 | 3D Printing Casings                  | 🔴 |
 | Attaching the Components to Base     | 🔴 |
 | Data Transfer & Other Connections    | 🔴 |
-| Firmware                             | 🔴 | 
+| Firmware                             | 🔵 | 
 | Indoor Testing                       | 🔴 |
 | Deployment                           | 🔴 |
 
