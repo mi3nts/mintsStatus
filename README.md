@@ -14,7 +14,7 @@
 | Power Connections                     | ✅ | 🔴 |
 | Data Transfer & Other Connections     | 🔵 | 🔴 |
 | Firmware                              | 🔵 | 🔵 |
-| Indoor Testing                        | 🔴 | 🔴 |
+| Indoor Testing                        | 🔵 | 🔴 |
 | Outdoor Testing at WSTC               | 🔴 | 🔴 |
 | Deployment                            | 🔴 | 🔴 |
 
