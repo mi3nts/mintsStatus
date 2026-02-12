@@ -9,14 +9,14 @@
 | BME280                                    | ✅ |
 | OPC N3                                    | ✅ |
 | INA219                                    | ✅ |
+| Renke Anemometer                          | ✅ |
+| GPS                                       | ✅ |
+| SJH5A                                     | ✅ |
 | Radiation Sensor (Canopy)                 | 🔵 |
 | PMS7003                                   | 🔵 |
-| GPS                                       | 🔵 |
 | TGS 2611-C00                              | 🔵 |
-| SJH5A                                     | 🔵 |
 | AS7265x                                   | 🔵 |
 | UV Sensor                                 | 🔴 |
-| Renke Anemometer                          | 🔴 |
 | LTR390                                    | 🔴 |
 
 
