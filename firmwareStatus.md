@@ -12,12 +12,12 @@
 | Renke Anemometer                          | ✅ |
 | GPS                                       | ✅ |
 | SJH5A                                     | ✅ |
-| Radiation Sensor (Canopy)                 | 🔵 |
+| Radiation Sensor (Canopy)                 | ✅ |
 | PMS7003                                   | 🔵 |
 | TGS 2611-C00                              | 🔵 |
 | AS7265x                                   | 🔵 |
-| UV Sensor                                 | 🔴 |
-| LTR390                                    | 🔴 |
+| UV Sensor                                 | 🔵 |
+| LTR390                                    | 🔵 |
 
 
 NOTES:
