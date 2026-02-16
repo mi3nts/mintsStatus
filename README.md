@@ -3,7 +3,7 @@
 ## CANOPY
 
 | Phase | First 3 | Next 10 |
-|--------|:--------:|:--------:|
+|--------|:--------:|:--------:|:--------:|
 | Planning and Outline                  | ✅ | ✅ |
 | 3D CAD Design                         | ✅ | ✅ |
 | Bill of Materials                     | ✅ | ✅ |
@@ -12,7 +12,7 @@
 | CNC Cutting Base Plate                | ✅ | 🔴 |
 | Attaching the Components to Base      | ✅ | 🔴 |
 | Power Connections                     | ✅ | 🔴 |
-| Data Transfer & Other Connections     | 🔵 | 🔴 |
+| Data Transfer & Other Connections     | ✅ | 🔴 |
 | Firmware                              | 🔵 | 🔵 |
 | Indoor Testing                        | 🔵 | 🔴 |
 | Outdoor Testing at WSTC               | 🔴 | 🔴 |

@@ -21,7 +21,8 @@
 
 
 NOTES:
-* Current priorities are radiation sensor and relay programming for CANOPY nodes
+* TGS 2611-C00 needs further testing. Worst case won't be embedded into PCB.
+* The rest are written by Lakitha but untested
 
 ✅ -> Finished!
 🔵 -> Needs work / testing
